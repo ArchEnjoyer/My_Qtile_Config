@@ -96,7 +96,7 @@ widget_defaults = dict(
 )
 
 #def change_language():
-#    subprocess.call('/home/q/language.py')
+#    subprocess.call('/home/q/.config/qtile/language.py')
 
 def init_widgets_list():
     widgets_list = [
